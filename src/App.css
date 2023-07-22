@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding: 30px;
+}
+.todo-input, .todo-btn{
+  width: 250px;
+  height: 30px;
+  border-radius: 8px;
+  font-size: 18px;
+  padding: 5px;
+  margin:20px 5px;
+  border: 1px solid #605b5b;
+}
+.todo-btn{
+  width: 80px;
+  height: 40px;
+  font-size: 16px;
+  background-color: #dcdee0;
+  border: none;
+}
+ol{
+  font-size: 20px;
+  width: 30%;
+  margin: 0 auto;
+ }
+li {
+  text-align: justify;
+  padding-bottom: 8px;
+}
